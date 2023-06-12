@@ -13,7 +13,7 @@ Hello! I'm a Junior Laravel Backend Developer passionate about crafting efficien
 - MySQL
 - Git/GitHub
 
-# Problem olving
+# Problem Solving
 
 In addition to my development work, I actively enhance my algorithmic problem-solving skills and understanding of data structures. My passion for problem solving has led me to LeetCode, where I regularly tackle challenges and learn from the vast community of developers.
 
