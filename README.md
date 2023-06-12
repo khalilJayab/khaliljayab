@@ -18,4 +18,4 @@ Feel free to get in touch with me:
 
 Email: `khaliljayy@gmail.com`
 
-LinkedIn: [khaliljayab]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/khaliljayab/))
+LinkedIn: [khaliljayab]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/khaliljayab/])
