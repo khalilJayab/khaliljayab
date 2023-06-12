@@ -1,16 +1,21 @@
-### Hi there 👋
+# About Me
 
-<!--
-**khalilJayab/khaliljayab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a Junior Laravel Backend Developer passionate about crafting efficient, scalable and maintainable solutions for complex problems. I'm skilled in PHP and have experience with the Laravel framework, where I've built robust REST APIs, implemented CRUD operations, and designed custom packages. I'm constantly seeking new challenges and opportunities to grow and make a significant impact.
 
-Here are some ideas to get you started:
+# Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Html/css
+- JavaScript
+- Ajax & Json
+- Laravel
+- PHP
+- MySQL
+- Git/GitHub
+
+# Contact
+
+Feel free to get in touch with me:
+
+Email: `khaliljayy@gmail.com`
+
+LinkedIn: [khaliljayab]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/khaliljayab/))
