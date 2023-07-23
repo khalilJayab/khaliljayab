@@ -12,6 +12,7 @@ Hello! I'm a Junior Laravel Backend Developer passionate about crafting efficien
 - Laravel
 - MySQL
 - Git/GitHub
+- Livewire
 
 # Problem Solving
 
